@@ -1,0 +1,1 @@
+Install from MultiBeast: Select Item "Drivers & Bootloaders -> Drivers -> Miscellaneous -> USB 3.0 - 3rd Party"

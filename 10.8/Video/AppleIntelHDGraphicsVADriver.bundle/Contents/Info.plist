@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>11A494</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>AppleIntelHDGraphicsVADriver</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AppleIntelHDGraphicsVADriver 7.2.9 </string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.AppleIntelHDGraphicsVADriver</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AppleIntelHDGraphicsVADriver</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>7.2.9</string>
+	<key>CFBundleVersion</key>
+	<string>7.0.2</string>
+	<key>CSResourcesFileMapped</key>
+	<string>yes</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string></string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>11A494</string>
+	<key>DTSDKName</key>
+	<string></string>
+	<key>DTXcode</key>
+	<string>0410</string>
+	<key>DTXcodeBuild</key>
+	<string></string>
+	<key>System Support</key>
+	<dict>
+		<key>MacBookAir4,1</key>
+		<dict/>
+		<key>MacBookAir4,2</key>
+		<dict/>
+		<key>MacBookPro6,1</key>
+		<dict>
+			<key>isILK</key>
+			<true/>
+		</dict>
+		<key>MacBookPro6,2</key>
+		<dict>
+			<key>isILK</key>
+			<true/>
+		</dict>
+		<key>MacBookPro8,1</key>
+		<dict>
+			<key>boostIG</key>
+			<true/>
+		</dict>
+		<key>MacBookPro8,2</key>
+		<dict>
+			<key>boostIG</key>
+			<true/>
+		</dict>
+		<key>MacBookPro8,3</key>
+		<dict>
+			<key>boostIG</key>
+			<true/>
+		</dict>
+		<key>Macmini5,1</key>
+		<dict/>
+		<key>Macmini5,2</key>
+		<dict/>
+		<key>Macmini5,3</key>
+		<dict/>
+		<key>iMac12,1</key>
+		<dict/>
+		<key>iMac12,2</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
