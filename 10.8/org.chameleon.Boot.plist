@@ -13,7 +13,7 @@
 	<key>GraphicsEnabler</key>
 	<string>Yes</string>
 	<key>Graphics Mode</key>
-	<string>1600x900x32</string>
+	<string>1366x768x32</string>
 	<key>InstantMenu</key>
 	<string>Yes</string>
 	<key>Kernel</key>
